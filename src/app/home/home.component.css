@@ -1,0 +1,26 @@
+.body{
+    position:absolute;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    width: 50%;
+    border:2px solid burlywood;
+    background-color: black;
+}
+.parent{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;  
+}
+.body button{
+    width:400px;
+    height:50px;
+}
+h2{
+    color:blanchedalmond;
+}

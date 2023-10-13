@@ -1,0 +1,30 @@
+.parent{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    width: 90vw;  
+}
+.body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border:2px solid grey;
+    padding:30px;
+    background-color:skyblue;
+    color:black;
+    font:bold;
+
+
+}
+.body input{
+    width:400px;
+}
+h2{
+    margin-top: 100px;
+    text-align: center;
+    margin-left: 120px;
+
+}
